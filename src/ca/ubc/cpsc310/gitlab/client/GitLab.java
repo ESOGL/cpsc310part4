@@ -86,7 +86,7 @@ public class GitLab implements EntryPoint {
 	public void displayUsers(List<IUser> users)
 	{
 
-		RootPanel.get("root").add(flexTable);
+		RootPanel.get("root").add("bhertfgef");
 		
 		flexTable.setText(0,0, "Name");
 		
